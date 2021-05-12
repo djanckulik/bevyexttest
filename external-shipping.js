@@ -25,7 +25,7 @@
     shoptet.externalShipping = shoptet.externalShipping || {};
     // `externalShippingOne` - required shipping name in camelCase
     // must be identical as code of external shipping
-    shoptet.externalShipping.externalShippingOne = {
+    shoptet.externalShipping.bevy = {
         modalContent: modalContent,
         onComplete: function(el) {
             // code executed after the modal is fully loaded
